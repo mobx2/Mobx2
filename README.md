@@ -1,5 +1,5 @@
 <h1>Hi 👋, I'm Ibraheem Shaheen</h1>
-# 💫 About Me:
+# 💫 About Me: <br>
 🛠️ I'm currently working on a cash register app that calculates change based on price, cash provided, and cash in the drawer.<br>🤝 I'm looking to collaborate on frontend development projects using JavaScript.<br>🌿 I'm looking for help with advanced JavaScript techniques and CSS libraries.<br>🌱 I'm currently learning JavaScript frameworks and frontend optimization.<br>💬 Ask me about JavaScript, Linux (Manjaro KDE), and open-source software.<br>⚡ Fun fact: I switched from Wayland to X11 recently for better app compatibility!<br>
 
 
