@@ -1,9 +1,8 @@
 <h1>Hi 👋, I'm Ibraheem Shaheen</h1>
-<p>🛠️ I’m currently working on a cash register app that calculates change based on price, cash provided, and cash in the drawer.
-  🤝 I’m looking to collaborate on frontend development projects using JavaScript. 🌿 I’m looking for help with advanced JavaScript techniques and CSS libraries.
-  🌱 I’m currently learning JavaScript frameworks and frontend optimization.
-  💬 Ask me about JavaScript, Linux (Manjaro KDE), and open-source software.
-  ⚡ Fun fact: I switched from Wayland to X11 recently for better app compatibility!</p>
+# 💫 About Me:
+🛠️ I'm currently working on a cash register app that calculates change based on price, cash provided, and cash in the drawer.<br>🤝 I'm looking to collaborate on frontend development projects using JavaScript.<br>🌿 I'm looking for help with advanced JavaScript techniques and CSS libraries.<br>🌱 I'm currently learning JavaScript frameworks and frontend optimization.<br>💬 Ask me about JavaScript, Linux (Manjaro KDE), and open-source software.<br>⚡ Fun fact: I switched from Wayland to X11 recently for better app compatibility!<br>
+
+
 <h2>🚀 Languages and Tools I Use</h2>
 <p><a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="42" height="42" /></a>
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="42" height="42" /></a>
