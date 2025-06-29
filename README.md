@@ -1,36 +1,60 @@
-<h1>Hi 👋, I'm Ibraheem Shaheen</h1>
+# 👋 Hi, I'm Ibraheem Shaheen
 
-<h2>💫 About Me</h2>
-<ul>
-  <li>🛠️ I'm currently working on a cash register app that calculates change based on price, cash provided, and cash in the drawer.</li>
-  <li>🤝 I'm looking to collaborate on frontend development projects using JavaScript.</li>
-  <li>🌿 I'm looking for help with advanced JavaScript techniques and CSS libraries.</li>
-  <li>🌱 I'm currently learning JavaScript frameworks and frontend optimization.</li>
-  <li>💬 Ask me about JavaScript, Linux (Manjaro KDE), and open-source software.</li>
-  <li>⚡ Fun fact: I switched from Wayland to X11 recently for better app compatibility!</li>
-</ul>
+**Frontend Developer | JavaScript Enthusiast | Linux Power User | Hyperland + Fedora Customizer**
 
-<h2>🚀 Languages and Tools I Use</h2>
+---
+
+## 🧠 About Me
+
+- 🔧 Obsessed with fine-tuning Linux systems (**Fedora**, **Manjaro KDE**) and customizing terminal workflows.
+- 💡 Passionate about crafting sleek, modern, and high-performance UIs using **React**, **Tailwind CSS**, and **vanilla JavaScript**.
+- 🔍 Enjoy digging deep into **JavaScript** logic, **Promises**, **async/await**, and system-level optimizations.
+- 🎯 Focused on mastering **React** and **Next.js**, while reinforcing core JS principles.
+- 🧙‍♂️ Daily terminal user: **Neovim**, **dotfiles**, custom setups, and experimenting with **Hyperland** environments.
+- 📚 Planning to branch into **cybersecurity** after building a solid frontend base.
+
+---
+
+## 🚀 Currently Learning
+
+- ⚛️ React (via *The Ultimate React Course 2025*)
+- 🧠 Reviewing JavaScript from scratch (*Jonas Schmedtmann’s Course*)
+- 🎨 Tailwind CSS advanced practices
+- ⚙️ Next.js for fullstack capabilities
+- 💬 Improving English and communication for tech collaboration
+
+---
+
+## 🛠️ Tech Stack & Tools
+
 <p align="left">
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="42" height="42"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="42" height="42"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="42" height="42"/>
-  </a>
-  <a href="https://www.linux.org/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="42" height="42"/>
-  </a>
-  <a href="https://git-scm.com/" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="42" height="42"/>
-  </a>
-  <a href="https://reactjs.org/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="42" height="42"/>
-  </a>
-  <a href="https://tailwindcss.com/" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="42" height="42"/>
-  </a>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="40" />
+  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="TailwindCSS" width="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" />
 </p>
+
+---
+
+## 💬 Ask Me About
+
+- ⚡ JavaScript debugging, logic, and DOM manipulation
+- ⚛️ React component structure and optimization
+- 🌀 Tailwind design systems
+- 🧰 Linux tweaking: Fedora, Manjaro KDE, Wayland vs X11
+- 🧠 Terminal workflows, Neovim configs, and performance setups
+
+---
+
+## 💡 Fun Facts
+
+- 🖥️ Switched between **Wayland** and **X11** for performance testing and compatibility.
+- ⌨️ Love spending time building minimalist terminal setups with aesthetic flair.
+- 🏋️‍♂️ Gym is part of the daily routine — balance is everything.
+
+---
+
+**Thanks for checking out my profile!** ✨
