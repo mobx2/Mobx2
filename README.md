@@ -11,7 +11,7 @@
 - 🔍 Enjoy digging deep into **JavaScript** logic, **Promises**, **async/await**, and system-level optimizations.
 - 🎯 Focused on mastering **React** and **Next.js**, while reinforcing core JS principles.
 - 🧙‍♂️ Daily terminal user: **Neovim**, **dotfiles**, custom setups, and experimenting with **Hyperland** environments.
-- 📚 Planning to branch into **cybersecurity** after building a solid frontend base.
+- 📚 Planning to branch into **Web Application cybersecurity** after building a solid Web development base.
 
 ---
 
